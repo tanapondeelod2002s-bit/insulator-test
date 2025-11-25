@@ -1,0 +1,7 @@
+{
+  "name": "Insulator Patrol AI",
+  "description": "AI-powered analysis tool for electrical insulators to detect defects like flashover or breakage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
