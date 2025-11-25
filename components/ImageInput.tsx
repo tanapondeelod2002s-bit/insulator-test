@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import { Camera, Upload, Image as ImageIcon, Sparkles } from 'lucide-react';
+import { Camera, Upload, Sparkles } from 'lucide-react';
 
 interface ImageInputProps {
   onImageSelected: (file: File) => void;
